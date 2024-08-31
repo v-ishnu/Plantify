@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926313390253",
+    "project_id": "plantify-5944d",
+    "storage_bucket": "plantify-5944d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926313390253:android:cb30f0ff50355276cd2624",
+        "android_client_info": {
+          "package_name": "com.NexGen.farmer_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtDnZRLO9zUFj4dg5FyZMQhQ54zz3JR8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
